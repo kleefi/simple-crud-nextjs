@@ -5,4 +5,4 @@ Build with
 - Postgress (Vercel)
 - Vercel
 
-Demo preview : https://kleefi-simple-crud-nextjs.vercel.com
+Demo preview : https://kleefi-simple-crud-nextjs.vercel.app
